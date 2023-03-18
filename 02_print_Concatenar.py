@@ -29,9 +29,3 @@ x=int(x)
 print("El valor de X es: ",x)
 
 
-pi=22/7
-print(pi)
-print("{:.2f}".format(pi))
-print("{:.10f}".format(pi))
-print("{:.20f}".format(pi))
-print("{:.100f}".format(pi)) #Ya se llena de CEROS indica que no hay mas digitos, o no se puede imprimir mas
